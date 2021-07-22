@@ -25,6 +25,7 @@
     "mapbox-gl": "^2.3.1",
     "react": "17.x",
     "react-dom": "17.x",
+    "react-use": "^17.2.4",
     "umi": "^3.5.13"
   },
   "devDependencies": {
